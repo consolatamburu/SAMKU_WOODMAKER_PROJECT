@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a65f986-c10c-4cde-9f29-b7fe9e28b2c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../CRUD/CRUD/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../CRUD/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/THE_BAKER/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/clients/client-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/clients/client-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/clients/client-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/clients/client-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/clients/client-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/clients/client-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/hero-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-details-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-details-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/portfolio/portfolio-details-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/team/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/team/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/team/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/team/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/testimonials/testimonials-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/testimonials/testimonials-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/testimonials/testimonials-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/testimonials/testimonials-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/img/testimonials/testimonials-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/scss/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap-icons/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap-icons/bootstrap-icons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap-icons/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/boxicons/css/animations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/boxicons/css/boxicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/boxicons/css/boxicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/boxicons/css/transformations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/boxicons/fonts/boxicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/boxicons/fonts/boxicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/boxicons/fonts/boxicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/boxicons/fonts/boxicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/boxicons/fonts/boxicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/glightbox/css/glightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/glightbox/css/glightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/glightbox/css/plyr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/glightbox/css/plyr.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/glightbox/js/glightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/glightbox/js/glightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/php-email-form/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/purecounter/purecounter_vanilla.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/swiper/swiper-bundle.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/swiper/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/static/vendor/swiper/swiper-bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/templates/inner-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../THE_BAKER/templates/portfolio-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../THE_BAKER_PROJECT/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clients/client-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clients/client-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clients/client-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clients/client-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clients/client-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../clients/client-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hero-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-details-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-details-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/portfolio-details-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../team/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testimonials/testimonials-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testimonials/testimonials-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testimonials/testimonials-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testimonials/testimonials-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testimonials/testimonials-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../scss/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap-icons/bootstrap-icons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap-icons/bootstrap-icons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap-icons/fonts/bootstrap-icons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap-icons/fonts/bootstrap-icons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/boxicons/css/animations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/boxicons/css/boxicons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/boxicons/css/boxicons.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/boxicons/css/transformations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/boxicons/fonts/boxicons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/boxicons/fonts/boxicons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/boxicons/fonts/boxicons.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/boxicons/fonts/boxicons.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/boxicons/fonts/boxicons.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/glightbox/css/glightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/glightbox/css/glightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/glightbox/css/plyr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/glightbox/css/plyr.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/glightbox/js/glightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/glightbox/js/glightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/isotope-layout/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/isotope-layout/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/php-email-form/validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/purecounter/purecounter_vanilla.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/swiper/swiper-bundle.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/swiper/swiper-bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../vendor/swiper/swiper-bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../templates/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../templates/inner-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../templates/portfolio-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/bootstrap_django_morning/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/css/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/css/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/img/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/templates/project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/templates/service.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/templates/team.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../bootstrap_django_morning/templates/testimonial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/consolatadjangoproject/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/base/_body-element.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/base/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/base/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/base/_selection-colors.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/base/_vars.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/fonts/Montserrat-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/layouts/_grid.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_about.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_contact.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_device-notification.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_header.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_hire.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_intro.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_outer-nav.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_section.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_side-nav.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/css/modules/_work.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/about-history.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/about-philosophy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/about-visual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/about-winners.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/contact-visual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/introduction-visual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/work-alex-nowak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/work-metiew-smith.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/img/work-victory.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/js/functions-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/js/vendor/hammer-2.0.8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/static/js/vendor/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../consolatadjangoproject/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../crud/crud/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../crud/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../crud_elvisdjangomidmorning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../crud_elvisdjangomidmorning/crud_elvisdjangomidmorning/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../crud_elvisdjangomidmorning/crud_elvisdjangomidmorning/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../crud_elvisdjangomidmorning/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../crud_elvisdjangomidmorning/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../crud_elvisdjangomidmorning/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../crud_elvisdjangomidmorning/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/djangoProjectELO254TUESDAY/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/djangoProjectELO254TUESDAY/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/default-skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/meanmenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/fonts/Berlin Sans FB Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/arrow-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/banner-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/call-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/computer-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/dress-shirt-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/flag-france.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/flag-uk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/footer-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/img-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/img-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/img-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/img-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/jhumka-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/kangan-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/laptop-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/mail-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/map-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/mobile-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/neklesh-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/toggle-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/tshirt-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/twitter-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/user-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/images/women-clothes-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/jquery-3.0.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/modernizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/static/js/slider-setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/design.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/electronic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/fashion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/jewellery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoProjectELO254TUESDAY/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/djangobootstrapelvis/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/about.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/bg-bottom-hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/bg-bottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/bg-dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/bg-newsletter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/bg-round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/bg-top.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/bg-tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/icon-shape-primary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/icon-shape-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/newsletter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/portfolio-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/portfolio-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/portfolio-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/portfolio-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/portfolio-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/portfolio-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/seo-agency-website-template.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/testimonial-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/testimonial-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/testimonial-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/img/testimonial-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/animate/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/animate/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/easing/easing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/easing/easing.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/isotope/isotope.pkgd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/isotope/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/lightbox/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/lightbox/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/lightbox/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/lightbox/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/lightbox/images/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/lightbox/images/prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/lightbox/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/lightbox/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/lightbox/links.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/assets/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/assets/owl.video.play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/owlcarousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/waypoints/links.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/waypoints/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/wow/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/lib/wow/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_accordion.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_badge.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_button-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_card.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_carousel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_close.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_containers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_dropdown.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_images.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_navbar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_offcanvas.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_popover.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_progress.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_root.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_spinners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_toasts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_tooltip.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_type.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/bootstrap-grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/bootstrap-reboot.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/bootstrap-utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/forms/_floating-labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/forms/_form-check.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/forms/_form-control.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/forms/_form-range.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/forms/_form-select.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/forms/_form-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/forms/_input-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/forms/_labels.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/forms/_validation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/helpers/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/helpers/_colored-links.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/helpers/_position.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/helpers/_ratio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/helpers/_stretched-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/helpers/_text-truncation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/helpers/_visually-hidden.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_alert.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_border-radius.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_box-shadow.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_caret.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_clearfix.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_color-scheme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_container.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_deprecate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_gradients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_grid.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_list-group.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_reset-text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_resize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_table-variants.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_text-truncate.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_transition.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/mixins/_visually-hidden.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/utilities/_api.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/static/scss/bootstrap/scss/vendor/_rfs.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/templates/project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/templates/service.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/templates/team.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangobootstrapelvis/templates/testimonial.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoformsmorningclass/djangoformsmorningclass/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoformsmorningclass/djangoformsmorningclass/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../djangoformsmorningclass/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/elvisdjangoprojecttuesday/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/default-skin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/icomoon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/jquery.fancybox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/meanmenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/fonts/Berlin Sans FB Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/arrow-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/banner-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/call-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/computer-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/dress-shirt-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/flag-france.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/flag-uk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/footer-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/img-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/img-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/img-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/img-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/img-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/img-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/jhumka-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/kangan-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/laptop-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/mail-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/map-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/mobile-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/neklesh-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/search-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/toggle-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/tshirt-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/twitter-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/user-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/images/women-clothes-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/jquery-3.0.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/modernizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/plugin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/static/js/slider-setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/templates/design.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/templates/electronic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/templates/fashion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/templates/jewellery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../elvisdjangoprojecttuesday/templates/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/latahdjangoproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/latahdjangoproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/latahdjangoproject/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/base/_body-element.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/base/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/base/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/base/_selection-colors.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/base/_vars.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Black.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/fonts/Montserrat-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/layouts/_grid.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/main.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_about.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_contact.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_device-notification.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_header.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_hire.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_intro.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_outer-nav.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_section.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_side-nav.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/css/modules/_work.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/about-history.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/about-philosophy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/about-visual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/about-winners.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/contact-visual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/introduction-visual.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/work-alex-nowak.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/work-metiew-smith.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/img/work-victory.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/js/functions-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/js/vendor/hammer-2.0.8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/static/js/vendor/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../latahdjangoproject/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Anthony/firstgitproject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEE/Anthony/.idea/Anthony.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../TEE/tonypy/.idea/tonypy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../bootstrap_midmorning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../bootstrap_midmorning/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../djangoELVIS/djangoELVIS/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../djangoELVIS/djangoELVIS/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/djangoProjecttemplateelvis/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/djangoProjecttemplateelvis/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/templates/about_us.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/templates/about_us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../djangoProjecttemplateelvis/templates/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../elvis/.idea/elvis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../elvis/.idea/elvis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../elvis/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../elvis/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../elvis/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../elvis/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../elvis/pic.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../elvis/pic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/.idea/first python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/IF.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/IF.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/OOP.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/OOP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/data structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/data structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/exempton.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/exempton.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/latah.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/latah.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/myconnection.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/myconnection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/myselect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/myselect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/mytable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/mytable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/numpy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/select.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/trial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/trial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../first python/vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../first python/vote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/assignment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/createtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/createtable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/data_structure.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/data_structure.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/data_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/display.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/display.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/exeption.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/exeption.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/if statament.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/if statament.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/insert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/link_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/link_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/my_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/my_module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/oop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/opperaters.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/opperaters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/variables.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/variables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../pythonProject3/vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../pythonProject3/vote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../tonypython/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../tonypython/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../tonypython/var.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../tonypython/var.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="2MiY0y1U4TwpbzJOkhi1AzpL9K9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/emobilis/Desktop/THE_BAKER_PROJECT",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a65f986-c10c-4cde-9f29-b7fe9e28b2c3" name="Changes" comment="" />
+      <created>1678251651436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678251651436</updated>
+      <workItem from="1678251654098" duration="17000" />
+      <workItem from="1678251957845" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
